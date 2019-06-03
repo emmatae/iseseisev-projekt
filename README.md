@@ -1,4 +1,4 @@
-# iseseisev-projekt- Programmeerimiskeelte viktoriin
+# Programmeerimiskeelte viktoriin
 
 Selle projekti autorid on Lisa-Marie Väli ja Emma Loore Tae.
 Rakenduses saab valida kolme teema vahel, mille kohta viktoriiniküsimustele vastata. Iga teema kohta on 10 küsimust. Igakord,
